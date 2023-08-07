@@ -1,0 +1,2 @@
+az container create --resource-group aci-rg --name ryanacitrain001 --location centralus --image ryanacrtrain.azurecr.io/containers:latest
+az login
