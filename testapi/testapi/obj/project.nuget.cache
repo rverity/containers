@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O923L4dlCGmX7pplbsXrRdhM1Id2HzqU8i89ocnDd3VPC0GUAA6mZVYTOW69ihQYVS0vO+NF/xhstw+xQEsajw==",
+  "dgSpecHash": "cmgaDAOByh/5bfiDM7oyE3r0SwHNZ+Ocla82CacKyM+1eSEwZL8r7W5cjO7fq0av0uMw8bX0S+1XNDkIO967/Q==",
   "success": true,
-  "projectFilePath": "C:\\Git\\testapi\\testapi\\testapi.csproj",
+  "projectFilePath": "C:\\Git\\containers\\testapi\\testapi\\testapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rveri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\rveri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

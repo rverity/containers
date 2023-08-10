@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\testapi\\testapi\\testapi.csproj": {}
+    "C:\\Git\\containers\\testapi\\testapi\\testapi.csproj": {}
   },
   "projects": {
-    "C:\\Git\\testapi\\testapi\\testapi.csproj": {
+    "C:\\Git\\containers\\testapi\\testapi\\testapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\testapi\\testapi\\testapi.csproj",
+        "projectUniqueName": "C:\\Git\\containers\\testapi\\testapi\\testapi.csproj",
         "projectName": "testapi",
-        "projectPath": "C:\\Git\\testapi\\testapi\\testapi.csproj",
+        "projectPath": "C:\\Git\\containers\\testapi\\testapi\\testapi.csproj",
         "packagesPath": "C:\\Users\\rveri\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\testapi\\testapi\\obj\\",
+        "outputPath": "C:\\Git\\containers\\testapi\\testapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rveri\\AppData\\Roaming\\NuGet\\NuGet.Config"
