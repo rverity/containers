@@ -1,0 +1,6 @@
+az webapp deployment user set --user-name rverity --password Theta13*
+az group create --name rg-app-service --location "East US"
+az appservice plan create --name app-service-plan --resource-group rg-app-service --sku FREE
+az webapp create --resource-group rg-app-service --plan app-service-plan --name ryan-testapi --deployment-local-git
+git remote add azure https://rverity@ryan-testapi.scm.azurewebsites.net/ryan-testapi.git
+git push azure main
